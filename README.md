@@ -15,7 +15,13 @@
 ## Get Start
 在命令行参数加上想要统计的文件或文件夹的路径。
 
+Such as: `python code_line_checker.py my_target.py`
+or
+`python code_line_checker.py myproject\myfolder\`
+
 > 注意！文件夹后必须加上"\"，并且理论上统计文件夹功能目前仅支持Windows端。
+
+> Attention! Must add `\` after folder path.
 
 ## Demo
 
