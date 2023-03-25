@@ -1,6 +1,6 @@
 # Code Lines Checker
 
-> Author: 物联212 廖玮珑
+> Python课程作业。挺实用的，就发出来了。下面是作业文档说明
 
 ## 功能
 
